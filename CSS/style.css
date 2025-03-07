@@ -307,10 +307,13 @@ li::marker {color: #1ED050;}
 
 /* Get in Touch  */
 
-.gTouch_Form{ max-width: 792px; max-height: 680px; position: absolute; left: 470px; top: 4650px;  };
+ .gTouch_Form{ max-width: 792px; max-height: 680px; position: absolute; left: 470px; top: 4760px;  };
 .leftText { position: relative; }
 .gTouch_Btn { width: 370px; height: 50px; background-color: #43A741;}
 .git_Font {font-family: "Salsa", serif; font-weight: 400; font-style: normal;}
+
+
+
 
 /* Get in Touch Ends */
 
